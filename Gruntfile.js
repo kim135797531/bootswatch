@@ -22,7 +22,7 @@ module.exports = function (grunt) {
             ' * Based on Bootstrap\n' +
             '*/\n',
     swatch: {
-      amelia:{}, cerulean:{}, cosmo:{}, cyborg:{}, darkly:{},
+      amelia:{}, cerulean:{}, cosmo:{}, cyborg:{}, darkly:{}, dokunamu:{},
       flatly:{}, journal:{}, lumen:{}, paper:{}, readable:{},
       sandstone:{}, simplex:{}, slate:{}, solar:{}, spacelab:{},
       superhero:{}, united:{}, yeti:{}, custom:{}
